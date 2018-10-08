@@ -1,0 +1,12 @@
+Mini Dragon Animation List
+
+frame: 001-002: Tpose
+frame: 010-028: Walk (loop)
+frame: 040-058: Run (loop)
+frame: 070-230: Idle (loop)
+frame: 250-285: Jump 
+frame: 300-318: Bite
+frame: 325-338: Hit
+frame: 350-422: Fly (loop)
+frame: 450-475: Die 
+frame: 500-508: Bubble Blow
